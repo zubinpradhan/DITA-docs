@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="what_is_division">
+    <title>What is division?</title>
+    <shortdesc>This topic introduces the concept of division.</shortdesc>
+    <conbody>
+        <p>Division is usually denoted by '÷' and is the inverse of multiplication. It constitutes
+            of two terms, dividend and divisor, where the dividend is divided by the divisor to give
+            a single term value. When the dividend is greater than the divisor, the result obtained
+            is greater than 1, or else it would be less than 1.</p>
+        <section id="section_wmg_qpf_npb">
+            <title>Rules of division</title>
+            <p>
+                <ul id="ul_oxh_rpf_npb">
+                    <li>The division of two positive integers is a positive integer</li>
+                    <li>The division of two negative number is a positive integer</li>
+                    <li>The division of integers with different signs results in a negative
+                        integer.</li>
+                </ul>
+            </p>
+        </section>
+    </conbody>
+</concept>

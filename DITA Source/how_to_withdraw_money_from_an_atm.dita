@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="how_to_withdraw_money_from_an_atm">
+    <title>How to withdraw money from an ATM</title>
+    <shortdesc>The procedure illustrated below will walk through the steps of withdrawing cash from
+        an ATM.</shortdesc>
+    <taskbody>
+        <prereq id="prereq_epl_qs1_npb">
+            <p>You must possess an active ATM/debit card along with the correct 4-digit<b> PIN</b>
+                (Personal Identification Number). You must also have sufficient funds in your bank
+                account for withdrawal.</p>
+        </prereq>
+        <context>
+            <p>There may be small variations in the withdrawal process depending on the software
+                used by different banks.</p>
+        </context>
+        <steps>
+            <step>
+                <cmd>Look for an illustration on the ATM on how to insert the card. Insert your ATM
+                    or debit card face up into the card slot, usually indicated by a green blinking
+                    light.</cmd>
+            </step>
+            <step>
+                <cmd>Select your <b>language</b>. Selection can be done either by tapping the text
+                    on the screen (in case of touch screen ATMs) or by pressing the button next to
+                    the text on the screen.</cmd>
+            </step>
+            <step>
+                <cmd>Enter your <b>PIN</b> (Personal Identification Number), which is usually a
+                    4-digit code specific to the card you inserted, using the keypad. <b>IMPORTANT:
+                    </b>Your PIN is confidential, do not share with anyone.</cmd>
+            </step>
+            <step>
+                <cmd>Press <b>Enter</b> on the keypad. Upon entering the correct PIN, you will be
+                    directed to a new menu.</cmd>
+            </step>
+            <step>
+                <cmd>Press the <b>Withdraw</b> option on the menu. Another menu is displayed asking
+                    you to select your account type.</cmd>
+            </step>
+            <step>
+                <cmd>Press <b>Savings</b> for personal accounts or <b>Current</b> if you hold a
+                    business account.</cmd>
+            </step>
+            <step>
+                <cmd>Enter the <b>amount</b> you want to withdraw using the keypad and then press
+                        <b>Enter</b>.</cmd>
+            </step>
+            <step>
+                <cmd>The ATM will ask if you want a receipt. Press <b>Yes</b> if you want a printed
+                    receipt of your transaction or press <b>No</b> if a printed receipt is
+                    unnecessary.</cmd>
+            </step>
+            <step>
+                <cmd>Wait for the ATM to complete your transaction. The cash is ejected from a slot
+                    below the screen. Take the cash out. <b>NOTE:</b> There is a timer for you to
+                    successfully accept the cash. Upon expiry of timer, the cash is automatically
+                    reclaimed by the ATM.</cmd>
+            </step>
+            <step>
+                <cmd>The ATM will ask you if you’d like to make another transaction. Press
+                        <b>Yes</b> if you want to check your balance or make another withdrawal,
+                    etc. press <b>No</b> if there are no more transactions to be made.</cmd>
+            </step>
+            <step>
+                <cmd>The ATM will eject your card. Remove card from slot and store safely. </cmd>
+            </step>
+        </steps>
+        <result id="result_lvd_rs1_npb">Cash will be dispensed by the ATM at the end of the
+            transaction.</result>
+    </taskbody>
+</task>

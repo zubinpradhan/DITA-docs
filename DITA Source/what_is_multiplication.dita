@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="what_is_multiplication">
+    <title>What is Multiplication?</title>
+    <shortdesc>This topic introduces the concept of multiplication.</shortdesc>
+    <conbody>
+        <p>Multiplication is repeated addition. It denoted by ‘×’. The multiplication process
+            involves two elements - the multiplicand and the multiplier. The result of the
+            multiplication of the multiplicand and the multiplier is called the product.</p>
+        <section id="section_f1z_2pf_npb">
+            <title>Rules of division</title>
+            <p>
+                <ul id="ul_mjf_gpf_npb">
+                    <li>The product of two positive numbers is a positive number</li>
+                    <li>The product of two negative numbers is a positive number</li>
+                    <li>The product of a positive and a negative number is a negative number</li>
+                </ul>
+            </p>
+        </section>
+    </conbody>
+</concept>

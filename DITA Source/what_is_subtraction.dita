@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="what_is_subtraction">
+    <title>What is Subtraction?</title>
+    <shortdesc>This topic introduces the concept of subtraction.</shortdesc>
+    <conbody>
+        <p>The subtraction operation gives the difference between two numbers. Subtraction is
+            denoted by the minus '-' sign. It is the opposite of addition. </p>
+        <p>This process is mostly used to find how many are left when some things are taken
+            away.</p>
+        <section id="section_ajr_1f1_npb">
+            <title>Rules of subtraction</title>
+            <p>
+                <ul id="ul_tpb_cf1_npb">
+                    <li>The subtraction of two positive numbers can result in either a positive or a
+                        negative number</li>
+                    <li>The subtraction of two negative numbers can result in either a positive or a
+                        negative number</li>
+                </ul>
+            </p>
+        </section>
+    </conbody>
+</concept>

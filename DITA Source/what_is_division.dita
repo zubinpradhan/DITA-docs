@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="what_is_division">
+    <title>What is Division?</title>
+    <shortdesc>This topic introduces the concept of division.</shortdesc>
+    <conbody>
+        <p>Division is usually denoted by '÷' and is the opposite of multiplication. It involves two
+            elements, the dividend and the divisor, where the dividend is divided by the divisor to
+            give a single number called the quotient. </p>
+        <section id="section_wmg_qpf_npb">
+            <title>Rules of division</title>
+            <p>
+                <ul id="ul_oxh_rpf_npb">
+                    <li>The division of two positive numbers is a positive number</li>
+                    <li>The division of two negative numbers is a positive number</li>
+                    <li>The division of numbers with different signs results in a negative
+                        number</li>
+                </ul>
+            </p>
+        </section>
+    </conbody>
+</concept>

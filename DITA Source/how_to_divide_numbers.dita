@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="how_to_divide_numbers">
+    <title>How to divide numbers</title>
+    <shortdesc>Continue reading below to learn how to use the <b>Numbers</b> app to divide two
+        numbers.</shortdesc>
+    <taskbody>
+        <prereq id="prereq_ok2_lmf_npb">To successfully divide numbers, you must know the basics of
+            mathematical operations.</prereq>
+        <context>
+            <p>Follow the steps below to find the quotient of two numbers:</p>
+        </context>
+        <steps>
+            <step conref="how_to_add_numbers.dita#how_to_add_numbers/step_jzt_m12_rpb">
+                <cmd/>
+            </step>
+            <step>
+                <cmd>Tap the divide (÷) button.</cmd>
+            </step>
+            <step conref="how_to_add_numbers.dita#how_to_add_numbers/step_rbf_n12_rpb">
+                <cmd/>
+            </step>
+            <step conref="how_to_add_numbers.dita#how_to_add_numbers/step_g2v_n12_rpb">
+                <cmd/>
+            </step>
+        </steps>
+        <result id="result_jt2_fnf_npb">The result of the division is displayed.</result>
+        <example id="example_c5g_gnf_npb">
+            <p>Lets say you want to divide 6 by 2. To do so, the mathematical operation will look
+                like this: 6÷2=3. Using the app, enter 6 followed by the division button. Next,
+                enter 2. Press the equals button.</p>
+            <p>The result "3" is displayed on the screen.</p>
+        </example>
+    </taskbody>
+</task>

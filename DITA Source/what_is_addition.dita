@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="what_is_addition">
+    <title>What is Addition?</title>
+    <shortdesc>This topic introduces the concept of addition.</shortdesc>
+    <conbody>
+        <p>Addition is the mathematical process of summing numbers together. The addition process is
+            denoted by the plus ‘+’ sign. It involves combining two or more numbers into a single
+            sum. The addition process is commutative, which means the order of the numbers does not
+            matter. </p>
+        <section id="section_gw2_dff_npb">
+            <title>Rules of addition</title>
+            <p>
+                <ul id="ul_c31_gff_npb">
+                    <li>The addition of two positive numbers reults in a positive number</li>
+                    <li>The addition of two negative numbers results in a negative number</li>
+                    <li>While adding positive and negative numbers, subtract the numbers and use the
+                        sign of the largest number</li>
+                </ul>
+            </p>
+        </section>
+    </conbody>
+</concept>
